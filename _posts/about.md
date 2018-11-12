@@ -1,6 +1,7 @@
 ---
 title: "About"
 permalink: /about/
+author_profile: true
 header:
 	image: "/images/UMI_log10violin_2000.png"
 ---
