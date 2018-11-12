@@ -1,10 +1,10 @@
 ---
 layout: archive
-permalink: /data-science/
-title: "Machine learning"
-author_profile: ture
+permalink: /machine-learning/
+title: "Machine Learning Project Posts"
+author_profile: true
 header:
-	images: "/images/Gene_hifi_1000.png"	
+  image: "/images/Untitled.png"
 ---
 
 {% include base_path %}
