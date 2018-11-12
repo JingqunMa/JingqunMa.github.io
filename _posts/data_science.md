@@ -5,6 +5,7 @@ title: "Machine learning"
 author_profile: ture
 header:
 	images: "/images/Gene_hifi_1000.png"
+
 ---
 
 {% include base_path %}
