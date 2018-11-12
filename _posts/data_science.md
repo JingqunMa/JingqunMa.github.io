@@ -4,8 +4,7 @@ permalink: /data-science/
 title: "Machine learning"
 author_profile: ture
 header:
-	images: "/images/Gene_hifi_1000.png"
-
+	images: "/images/Gene_hifi_1000.png"	
 ---
 
 {% include base_path %}
